@@ -9,11 +9,7 @@ git clone https://github.com/imvickykumar/HostDarkWeb.git
 
 cd HostDarkWeb
 
-chmod +x *
-
 bash UploadWeb
-
-cd web
 
 bash HostOnion
 
